@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/DATA/Users/bskrzypczak/Desktop/HealthyRecipes/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Volumes/DATA/Users/bskrzypczak/Desktop/HealthyRecipes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.3_af14810da80826d75cf70eb10516cdadf564ce37/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/bskrzypczak/Desktop/HealthyRecipes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Volumes/DATA/Users/bskrzypczak/Desktop/HealthyRecipes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.3_1be01fd60bb1d13d34fc05bf29ac8d8b2ed4ec8e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bskrzypczak/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Volumes/DATA/Users/bskrzypczak/Desktop/HealthyRecipes/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_c4ee0ef106f608b927203c196444faef7b88dc71/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/bskrzypczak/Desktop/HealthyRecipes/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="d0a4f6c69850a27dfa3685c671329c2cb80aa88c">
+        <dex dex="/Volumes/DATA/Users/bskrzypczak/Desktop/HealthyRecipes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9ba11e56dfbac1c94d01165b7ac4aa811b823404/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/bskrzypczak/Desktop/HealthyRecipes/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Volumes/DATA/Users/bskrzypczak/Desktop/HealthyRecipes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_ede2a6f70fd451ba4ae21a657dadb85ca98797a3/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/bskrzypczak/Desktop/HealthyRecipes/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="d08be3d6c023cd4603dea81f2d2c0210391569a3">
+        <dex dex="/Volumes/DATA/Users/bskrzypczak/Desktop/HealthyRecipes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_68c487153b417fee281c1ba8fe4e6f08ca369f16/classes.dex" />
+    </item>
+
+</items>
